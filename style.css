@@ -1,0 +1,26 @@
+    /*Makes the backgroud blue*/
+body {
+    background-color: lightblue;
+    background-image: linear-gradient(90deg, green 0%, #c8ff00 100%);
+}
+    /*gives buttons color can size*/
+ .button {
+     background-color: white;
+     width: 100px;
+     height: 30px;
+     border-radius: 12px;
+     border-color: lightblue;
+ }
+ .dataTable {
+    background-color: lightblue;
+    background-image: linear-gradient(180deg, white 0%, rgb(0, 191, 255) 100%);
+ }
+ .lgButton {
+     background-color: lightgreen;
+     width: 200px;
+     height: 30px;
+     border-radius: 12px;
+     border-color: lightskyblue;
+ }
+
+ 
